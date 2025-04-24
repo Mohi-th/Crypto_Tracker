@@ -11,7 +11,7 @@ A responsive and real-time cryptocurrency price tracker built using **React**, *
 
 ## 📸 Preview
 
-![Crypto Price Tracker Screenshot](./screenshot.png) *(Optional)*
+![Crypto Price Tracker Screenshot](./screenshot.png) 
 
 ## 🔧 Tech Stack
 
