@@ -1,0 +1,32 @@
+td{
+    padding: 10px;
+}
+
+.shadow-right {
+    filter: drop-shadow(4px 0 4px rgba(0, 0, 0, 0.5));
+    z-index: 10;
+}
+.shadow-right::after{
+    content: "";
+    box-shadow: inset -8px 0 8px -4px rgba(0, 0, 0, 0.15);
+    display: flex;
+    flex-direction: row;
+    content: "";
+}
+
+th{
+    border-bottom:solid rgb(223, 220, 220) 0.1px; 
+}
+
+.th{
+    padding: 11px 10px;
+    text-align: end;
+}
+
+.td{
+    text-align: end;
+}
+
+figure{
+    text-align: end;
+}
