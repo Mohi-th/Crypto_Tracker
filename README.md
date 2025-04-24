@@ -17,7 +17,7 @@ A responsive and real-time cryptocurrency price tracker built using **React**, *
 
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [CoinGecko API](https://www.coingecko.com/en/api) *(for static coin data)*
+- [CoinGecko API](https://www.coingecko.com/en/api) 
 
 ## 📦 Installation
 
